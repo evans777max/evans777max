@@ -18,7 +18,7 @@
 | **[指北 TrueNorth](https://github.com/evans777max/TrueNorth)** | 单文件、离线、自包含的 AI 工作导航站：45 条全复核 Skill + 37 套带解读的方案库，把「看懂 → 跑通」做成一条主线 | 已上线 · [在线体验](https://true-north-ev.netlify.app) |
 | **[dev-skills](https://github.com/evans777max/dev-skills)** | Teach your AI agent some taste：把 7 套设计语言与工程纪律写成 Agent 能读的 SKILL.md，专治「AI 味」交付 | 公开 · MIT |
 | **resume-now**（私有） | 求职作品集站群：六页单文件互链成环 + 三段自动化实录 + 九主题风格实验室 | [在线](https://evans-career.netlify.app) |
-| **ai-chain-quant-global**（私有） | 跨市场 AI 板块量化投研终端：99 标的 × 16 产业链 × 八因子，本地运行，不构成投资建议 | 个人研究 |
+| **[ai-chain-quant-global](https://github.com/evans777max/ai-chain-quant-global)** | 跨市场 AI 板块量化投研终端：99 标的 × 16 产业链 × 八因子，本地运行，不构成投资建议 | 公开 · 个人研究 |
 
 ## 怎么工作
 
