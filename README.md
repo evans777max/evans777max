@@ -38,7 +38,7 @@ Reusable skills that teach AI agents how to deliver with better taste and strong
 
 - **[AI Chain Quant Global](https://github.com/evans777max/ai-chain-quant-global)** — A local cross-market AI-sector research terminal that turns market data, factor rules, and risk boundaries into an explainable workflow.
 - **[Game Now](https://github.com/evans777max/Game-Now)** — One game brief, two independent model implementations, and two rendering stacks: an experiment in multi-model product delivery.
-- **[Resume Now](https://evans-career.netlify.app)** — A private career portfolio system combining interconnected pages, automation records, contextual AI guidance, and visual experiments.
+- **[Resume Now](https://evans-career.netlify.app)** — A career portfolio system combining interconnected pages, automation records, contextual AI guidance, and visual experiments.
 
 ## How I Work
 
