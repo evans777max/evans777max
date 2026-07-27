@@ -1,41 +1,66 @@
 # Evans He
 
-> **Business-native AI Product Builder** · Shanghai · MBA Candidate 2027
-> 把跨境物流与业务流程中的模糊问题，转化为可验证、可追溯、可复用的 AI 工具与产品原型。
-> 信条只有一条：**Evidence first** —— 先给结论，再给证据，边界如实声明。
+**Business-native AI Product Builder**
+
+I turn ambiguous business problems into **verifiable AI workflows, local-first tools, and reusable agent skills**.
+
+用人的判断定义问题，用一队 AI 放大执行，把结果沉淀为产品、Skill 与可重跑流程。
 
 <p>
-  <img src="https://img.shields.io/badge/%E8%B7%A8%E5%A2%83%E7%89%A9%E6%B5%81-5%20%E5%B9%B4%2B-2f62ff" alt="跨境物流 5 年+">
-  <img src="https://img.shields.io/badge/%E5%B1%A5%E7%BA%A6-50%20%E4%B8%87%2B%20%E4%BB%B6%20%C2%B7%20%E6%AC%A7%E7%BE%8E-1c7a4f" alt="履约 50 万+ 件">
-  <img src="https://img.shields.io/badge/AI%20Workflow-%E5%AE%9E%E4%B9%A0%E6%9C%9F%E9%97%B4%E6%8C%81%E7%BB%AD%E5%91%A8%E6%9B%B4-e8590c" alt="AI Workflow 持续周更">
-  <img src="https://img.shields.io/badge/%E7%A6%BB%E7%BA%BF%E4%BC%98%E5%85%88-%E5%8D%95%E6%96%87%E4%BB%B6%E4%BA%A4%E4%BB%98-0b7285" alt="离线优先 · 单文件交付">
-  <img src="https://img.shields.io/badge/1%20human%20%2B%20AI%20agents-%3D%201%20delivery%20team-7048e8" alt="1 human + AI agents">
+  <img src="https://img.shields.io/badge/focus-AI%20Product%20Builder-2f62ff" alt="AI Product Builder">
+  <img src="https://img.shields.io/badge/domain-Business%20×%20AI-333333" alt="Business × AI">
+  <img src="https://img.shields.io/badge/delivery-Local--first-1c7a4f" alt="Local-first">
+  <img src="https://img.shields.io/badge/principle-Evidence--first-333333" alt="Evidence-first">
 </p>
 
-## 在做什么
+## Flagship Projects
 
-| 项目 | 一句话 | 状态 |
-|---|---|---|
-| **[指北 TrueNorth](https://github.com/evans777max/TrueNorth)** | 单文件、离线、自包含的 AI 工作导航站：45 条全复核 Skill + 37 套带解读的方案库，把「看懂 → 跑通」做成一条主线 | 已上线 · [在线体验](https://true-north-ev.netlify.app) |
-| **[dev-skills](https://github.com/evans777max/dev-skills)** | Teach your AI agent some taste：把 7 套设计语言与工程纪律写成 Agent 能读的 SKILL.md，专治「AI 味」交付 | 公开 · MIT |
-| **resume-now**（私有） | 求职作品集站群：六页单文件互链成环 + 三段自动化操作实录 + 站内 EV·Agent 导览（答案自带模块跳转）+ 跨页集章的通关文牒 + 九主题风格实验室 | [在线](https://evans-career.netlify.app) · [最新预览](https://evans-career.vercel.app) |
-| **[Game-Now](https://github.com/evans777max/Game-Now)** | DEAD CITY 俯视角僵尸生存的**两套独立实现**：Canvas 2D（任务链 · 天赋 · 定步长模拟）与 Three.js / WebGL（六武器 · 三难度 · 可驾驶坦克 · 3D 城市光照），各带一份双击即玩的离线单文件版 | 公开 · TypeScript + Vite |
-| **[ai-chain-quant-global](https://github.com/evans777max/ai-chain-quant-global)** | 跨市场 AI 板块量化投研终端：99 标的 × 16 产业链 × 八因子，本地运行，不构成投资建议 | 公开 · 个人研究 |
+### [TrueNorth 指北](https://github.com/evans777max/TrueNorth)
 
-同一套工程签名贯穿这几个项目：**单文件、离线、零依赖**——TrueNorth 是一个 713KB 的 HTML，作品集六页各自独立可双击，DEAD CITY 两套实现各带一份离线单文件版。发一个文件 = 发整个产品，不依赖我的服务器活着。
+A single-file, offline-first AI work navigator built around a Skill-first workflow.
 
-## 怎么工作
+- 45 reviewed agent skills
+- 37 toolkits with original interpretation
+- AI signals, cases, glossary, source graph, and practical work paths
+- [Live site](https://true-north-ev.netlify.app)
 
-```
+### [dev-skills](https://github.com/evans777max/dev-skills)
+
+Reusable skills that teach AI agents how to deliver with better taste and stronger engineering discipline.
+
+- UI design systems and anti-patterns
+- Single-file HTML delivery
+- Code-generated PPT and auditable Excel
+- Streamlit packaging and Playwright automation
+- Installable in Kiro and adaptable to other coding agents
+
+## Selected Builds
+
+- **[AI Chain Quant Global](https://github.com/evans777max/ai-chain-quant-global)** — A local cross-market AI-sector research terminal that turns market data, factor rules, and risk boundaries into an explainable workflow.
+- **[Game Now](https://github.com/evans777max/Game-Now)** — One game brief, two independent model implementations, and two rendering stacks: an experiment in multi-model product delivery.
+- **[Resume Now](https://evans-career.netlify.app)** — A private career portfolio system combining interconnected pages, automation records, contextual AI guidance, and visual experiments.
+
+## How I Work
+
+```text
 research → structure → prototype → validate → automate
-一个人做判断，一队 AI 放大执行；交付标准 = 结论有来源、流程可重跑、结果能被业务继续使用。
 ```
 
-- **Local first**：单文件、少依赖、双击即开——不让环境成为交付门槛
-- **Reproducible**：一次性交付沉淀成结构、脚本或 SOP
-- **验证优先**：改完必过自动化验收（Playwright 真机断言 / jsdom 零错误），不靠肉眼放行
-- **诚实边界**：没把握的数字不写，风险主动交代
+- **Evidence first** — conclusions should be traceable; uncertainty should be visible
+- **Local first** — reduce deployment and environment friction wherever practical
+- **Reusable by default** — turn one-off work into structures, scripts, SOPs, or skills
+- **Human judgment, agent execution** — people define the problem and boundaries; agents amplify delivery
+- **Validation before release** — automated checks, browser tests, and explicit review gates
 
-## 找我
+## Background
 
-📮 ev8642@sjtu.edu.cn · 🌐 [作品集](https://evans-career.netlify.app) · 🧭 [指北 TrueNorth](https://true-north-ev.netlify.app)
+- 5+ years in cross-border logistics and business operations
+- Experience across large-scale fulfillment and international delivery scenarios
+- MBA candidate, Class of 2027
+- Exploring how AI changes business workflows, product delivery, and individual leverage
+
+## Contact
+
+📮 ev8642@sjtu.edu.cn  
+🌐 [Portfolio](https://evans-career.netlify.app)  
+🧭 [TrueNorth](https://true-north-ev.netlify.app)
