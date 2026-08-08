@@ -1,0 +1,23 @@
+<svg width="720" height="30" viewBox="0 0 720 30" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="dl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#31415e" stop-opacity="0"/>
+      <stop offset="1" stop-color="#31415e"/>
+    </linearGradient>
+    <linearGradient id="dr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#31415e"/>
+      <stop offset="1" stop-color="#31415e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="14.25" width="288" height="1.5" fill="url(#dl)"/>
+  <rect x="392" y="14.25" width="288" height="1.5" fill="url(#dr)"/>
+  <circle cx="344" cy="15" r="2" fill="#31415e"/>
+  <circle cx="376" cy="15" r="2" fill="#31415e"/>
+  <path d="M 360 8 L 366 15 L 360 22 L 354 15 Z" fill="url(#dg)">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>

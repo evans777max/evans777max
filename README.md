@@ -15,24 +15,14 @@ I turn ambiguous business problems into **verifiable AI workflows, local-first t
 
 ## Flagship Projects
 
-### [TrueNorth 指北](https://github.com/evans777max/TrueNorth)
-
-A single-file, offline-first AI work navigator built around a Skill-first workflow.
-
-- 45 reviewed agent skills
-- 37 toolkits with original interpretation
-- AI signals, cases, glossary, source graph, and practical work paths
-- [Live site](https://true-north-ev.netlify.app)
-
-### [dev-skills](https://github.com/evans777max/dev-skills)
-
-Reusable skills that teach AI agents how to deliver with better taste and stronger engineering discipline.
-
-- UI design systems and anti-patterns
-- Single-file HTML delivery
-- Code-generated PPT and auditable Excel
-- Streamlit packaging and Playwright automation
-- Installable in Kiro and adaptable to other coding agents
+<p align="center">
+  <a href="https://github.com/evans777max/TrueNorth">
+    <img src="assets/card-truenorth.svg" width="49%" alt="TrueNorth 指北 — single-file, offline-first AI work navigator: 45 agent skills, 37 toolkits, AI signals, source graph. Live at true-north-ev.netlify.app">
+  </a>
+  <a href="https://github.com/evans777max/dev-skills">
+    <img src="assets/card-devskills.svg" width="49%" alt="dev-skills — reusable skills that teach AI agents design taste and engineering discipline: UI design systems, PPT and Excel codegen, Playwright automation, Kiro-ready">
+  </a>
+</p>
 
 ## Selected Builds
 
@@ -42,9 +32,9 @@ Reusable skills that teach AI agents how to deliver with better taste and strong
 
 ## How I Work
 
-```text
-research → structure → prototype → validate → automate
-```
+<p align="center">
+  <img src="assets/workflow.svg" width="880" alt="Workflow: research → structure → prototype → validate → automate, with outputs looped back as reusable assets">
+</p>
 
 - **Evidence first** — conclusions should be traceable; uncertainty should be visible
 - **Local first** — reduce deployment and environment friction wherever practical
@@ -59,8 +49,14 @@ research → structure → prototype → validate → automate
 - MBA candidate, Class of 2027
 - Exploring how AI changes business workflows, product delivery, and individual leverage
 
+<p align="center">
+  <img src="assets/divider.svg" width="720" alt="">
+</p>
+
 ## Contact
 
-📮 ev8642@sjtu.edu.cn  
-🌐 [Portfolio](https://evans-career.netlify.app)  
-🧭 [TrueNorth](https://true-north-ev.netlify.app)
+<p align="center">
+  <a href="mailto:ev8642@sjtu.edu.cn"><img src="https://img.shields.io/badge/Email-ev8642%40sjtu.edu.cn-2f62ff?style=flat-square" alt="Email: ev8642@sjtu.edu.cn"></a>
+  <a href="https://evans-career.netlify.app"><img src="https://img.shields.io/badge/Portfolio-evans--career.netlify.app-7c3aed?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio: evans-career.netlify.app"></a>
+  <a href="https://true-north-ev.netlify.app"><img src="https://img.shields.io/badge/TrueNorth-true--north--ev.netlify.app-06b6d4?style=flat-square" alt="TrueNorth: true-north-ev.netlify.app"></a>
+</p>
