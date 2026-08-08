@@ -1,6 +1,6 @@
-# Evans He
-
-**Business-native AI Product Builder**
+<div align="center">
+  <img src="assets/name-banner.svg" alt="Evans He — Business-native AI Product Builder" width="880">
+</div>
 
 I turn ambiguous business problems into **verifiable AI workflows, local-first tools, and reusable agent skills**.
 
@@ -37,7 +37,7 @@ Reusable skills that teach AI agents how to deliver with better taste and strong
 ## Selected Builds
 
 - **[AI Chain Quant Global](https://github.com/evans777max/ai-chain-quant-global)** — A local cross-market AI-sector research terminal that turns market data, factor rules, and risk boundaries into an explainable workflow.
-- **[Game Now](https://github.com/evans777max/Game-Now)** — One game brief, two independent model implementations, and two rendering stacks: an experiment in multi-model product delivery.
+- **[Soul Blade Plus](https://github.com/evans777max/soul-blade-plus)** — A single-file 2D fighting game built on Canvas and Web Audio, with pixel-art rendering and automated browser verification. [Play it live](https://evans777max.github.io/soul-blade-plus/).
 - **[Resume Now](https://evans-career.netlify.app)** — A career portfolio system combining interconnected pages, automation records, contextual AI guidance, and visual experiments.
 
 ## How I Work
