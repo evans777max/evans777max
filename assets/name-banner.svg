@@ -1,4 +1,4 @@
-<svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Evans He — Business-native AI Product Builder">
+<svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="何志彬 Evans He — 业务判断定义问题，AI 放大执行">
   <defs>
     <!-- Flowing color gradient for the name fill -->
     <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -85,9 +85,9 @@
 
   <!-- Subtitle with flanking accents -->
   <g fill="#8b949e">
-    <text x="440" y="176" text-anchor="middle"
-          font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
-          font-weight="600" font-size="19" letter-spacing="5">BUSINESS-NATIVE AI PRODUCT BUILDER</text>
+    <text x="440" y="177" text-anchor="middle"
+          font-family="'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', Helvetica, Arial, sans-serif"
+          font-weight="600" font-size="19" letter-spacing="4">业务判断定义问题 · AI 放大执行</text>
   </g>
   <g>
     <rect x="52" y="168" width="60" height="1.5" fill="#8b949e" opacity="0.5"/>
